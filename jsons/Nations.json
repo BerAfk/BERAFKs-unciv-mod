@@ -4,7 +4,7 @@
 		"leaderName": "BerAfk",
 		"adjective": ["BetaUsers"],
 		"startBias": ["Jungle"],
-        "preferredVictoryType": "Scientific",
+        "preferredVictoryType": "Domination",
         
         "startIntroPart1": "Hello World!",
 		
